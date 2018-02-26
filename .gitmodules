@@ -1,6 +1,6 @@
 [submodule "lectureCode-sp18"]
 	path = lectureCode-sp18
-	url = https://github.com/hexinatgithub/lectureCode-sp18.git
+	url = https://github.com/SoleGH/lectureCode-sp18.git
 [submodule "skeleton-sp18"]
 	path = skeleton-sp18
-	url = https://github.com/hexinatgithub/skeleton-sp18.git
+	url = https://github.com/SoleGH/skeleton-sp18.git
